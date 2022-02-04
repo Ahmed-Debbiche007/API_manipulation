@@ -1,10 +1,12 @@
-.pos{
+.pos {
     margin: auto;
     width: 35%;
     padding: 20px;
 }
 
-h1, h2, h3{
+h1,
+h2,
+h3 {
     margin-left: 10%;
     text-align: center;
 
